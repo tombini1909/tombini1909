@@ -5,6 +5,10 @@
   Atualmente estou estudando Desenvolvimento Web pela empresa GrowDev
 </p>
 
+<p align="left"> 
+  Hobbies: No tempo livre gosto muito de jogar video game, sair com amigos e praticar esportes 
+</p>
+
 <p align="left">
   🦄 Linguagens: <b>HTML</b>, <b> CSS</b>, e<b> JS </b>
 </p>
